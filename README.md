@@ -17,7 +17,7 @@ Data Extraction:
 The Python script uses the Requests library to send a GET request to the Swiggy website, retrieving the HTML content of the restaurant pages. BeautifulSoup is then employed to parse the HTML and extract the desired information such as restaurant name, variety of food, rating, food price, and discount coupon.
 
 
-
+ 
 
 Data Cleaning and Processing:
 
