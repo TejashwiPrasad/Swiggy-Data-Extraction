@@ -2,8 +2,11 @@
 This project utilizes Python web scraping techniques to extract restaurant data from Swiggy, a popular online food delivery platform. The data is then processed and cleaned using Pandas for further analysis and visualization.
 
 Libraries Used
+
 Requests: This library is used to send HTTP requests and retrieve the HTML content of the Swiggy website.
+
 Pandas: Pandas is employed to manipulate and analyze the extracted data in the form of a DataFrame.
+
 BeautifulSoup (bs4): BeautifulSoup is utilized to parse the HTML content and extract specific information from the Swiggy web pages.
 
 Data Extraction
